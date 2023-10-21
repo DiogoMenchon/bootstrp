@@ -1,0 +1,14 @@
+.btn{
+margin-top: 10px;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+header h2{
+background-color:rgb(94, 133, 243);
+color: white;
+text-align: center;
+padding: 10px;
+}
